@@ -1,0 +1,51 @@
+table {font-family: arial, sans-serif;border-collapse: collapse;width: 100%;border:2px solid black
+}
+
+td{border: 1px solid #dddddd;text-align: left;padding:10px;text-align:center}
+th{border: 1px solid #dddddd;text-align: left;padding:10px}
+body{background-image:url('https://lh3.googleusercontent.com/2x1zD20PgLCkfwLWvdED37Qr8_y-s6YkxVMpwRhP_W-1wrPVUbBaYUS6hNipAHH3dHhjG-eb4vACQ5vUTJ8-zG700g');background-repeat:no-repeat; background-size: cover;background-attachment: fixed; }
+.moghadame{background-color:grey;background-repeat:no-repeat;background-attachment: fixed;
+  background-size:100% 100%;font-size:130%;)}
+
+
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+tr:nth-child(odd) {
+  background-color: white;}
+.heads{color:hsl(18, 100%, 28%);border:3px solid hsl(0, 0%, 89%);background-color:hsl(143, 100%, 51%);padding:20px;font-size:130%}
+.title{font-size:150%;font-family:arial;text-align:center;}
+
+}
+.link{
+color: white;
+text-decoration: none;
+border-radius: 10px;
+background-color: #04aa6d;
+height: 41px;
+width: 160px;
+text-align: center;
+position: absolute;
+right: 100px;
+top: 17px;
+font-size: 30px;
+font-family: Verdana,sans-serif;
+}
+.come-link:hover{
+    background-color: #008554;
+}
+.come-link{
+color: white;
+text-decoration: none;
+border-radius: 10px;
+background-color: #04aa6d;
+height: 42px;
+width: 225px;
+text-align: center;
+position: absolute;
+right: 100px;
+top: 17px;
+font-size: 30px;
+font-family: Verdana,sans-serif;
+}
